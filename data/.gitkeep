@@ -1,0 +1,2 @@
+# This file ensures the data directory is tracked by Git
+# The songs.md file will be created automatically when songs are added 
